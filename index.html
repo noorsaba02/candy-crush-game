@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Candy Crush</title>
+        <link rel="stylesheet" href="candy.css">
+        <script src="candy.js"></script>
+    </head>
+<style>
+    
+</style>
+    <body>
+     <h2 style="color: white; ">
+        Score: <span id="score">0</span></h2>
+<h2 style="color: white; ">
+    Moves: <span id="moves">30</span></h2><br>
+
+<button onclick="startNewGame()" style="background-color: pink; 
+border: 8px solid pink;color: blueviolet; ">Start Game</button><br><br>
+
+<div id="board"></div><br>
+<h1 id="gameOver" style="display:none; color:red;">
+    Game Over!
+    🎉 Game Over!
+</h2><br>
+        <button onclick="restartGame()" style="background-color: pink; border: 8px solid pink; color: blueviolet; text-align: left;" 
+        >Restart Game</button>
+    </body>
+</html>
