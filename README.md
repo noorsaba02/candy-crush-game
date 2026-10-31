@@ -1,8 +1,37 @@
-# [Candy Crush](https://youtu.be/8yIKZQMGi0A)
+# 🍬 Candy Crush Game
 
-- Coding Tutorial: https://youtu.be/8yIKZQMGi0A
-- Demo: https://imkennyyip.github.io/candy-crush/
+## 📌 About the Project
+Candy Crush Game is an interactive match-3 puzzle game developed using HTML, CSS, and JavaScript. Players swap adjacent candies to match three or more candies of the same color, earn points, and enjoy an engaging gaming experience.
 
-In this tutorial, you will learn to create Candy Crush using HTML, CSS, and JavaScript. You will learn to swap candy pieces, crush candy pieces, and generate new ones.
+## ✨ Features
+- Colorful and attractive game interface.
+- Interactive candy-swapping functionality.
+- Match three or more candies of the same color.
+- Automatic candy replacement after matching.
+- Score tracking system.
+- Smooth and engaging gameplay.
 
-![candy-crush-preview](https://user-images.githubusercontent.com/78777681/163042549-09b7534e-2a3d-4649-aed5-07332e6e8a53.png)
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎮 How to Play
+1. Open the game in your browser.
+2. Swap two adjacent candies.
+3. Match three or more candies of the same color.
+4. Earn points by matching candies.
+5. Continue matching candies and enjoy the game!
+
+## 💻 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/noorsaba02/Memory-Card-Game.git
+   ```
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+## 👩‍💻 Developer
+**Noor Saba**
+
+GitHub: [noorsaba02](https://github.com/noorsaba02)
